@@ -1,0 +1,16 @@
+TWS:
+
+The problem that China is facing is that the government is censoring websites that could make China look bad in any sort of way. We could solve this by maybe finding a way to bypass the great firewall and getting  a message through that would let the Chinese people know what is actually happening.
+
+2)
+
+Primary:
+
+"5 ways to sneak past the great firewall"
+Secondary
+
+https://www.techinasia.com/5-ways-sneak-chinas-great-firewall (Links to an external site.)Links to an external site.
+
+3)
+
+The most common ways that people are able to work around the great firewall is by using virtual private networks, also known as VPN's. These allow chinese people to explore the web with not as many restrictins, but these VPN;s can be very unstable. VPN's can be free or people can pay for things called private VPN's which are more stable but obviously you would have to pay for them. People also use a method called freegating which is a way to bypass the GFW but it also still has its restrictions.
